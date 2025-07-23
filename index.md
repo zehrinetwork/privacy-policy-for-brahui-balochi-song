@@ -1,4 +1,4 @@
-Privacy Policy
+# Privacy Policy
 
 This Privacy Policy describes how your personal information is handled in Brahui & Balochi Song for Android.
 
